@@ -8,8 +8,8 @@
     "unist-util-visit": "^2.0.3",
     "remark-footnotes": "^1.0.0",
     "unified": "^9.0.0",
-    "remark-parse": "^6.0.2",
-    "remark-math": "^1.0.5",
+    "remark-parse": "^10.0.1",
+    "remark-math": "^5.1.1",
     "remark-details": "^1.1.0",
     "sync-request": "^6.1.0",
     "to-vfile": "^6.1.0"
